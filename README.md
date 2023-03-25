@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on data science.<br>👯 I’m looking to collaborate on  artificial intelligence projects.<br>🤝 I’m looking for help with artificial intelligence projects<br>🌱 I’m currently learning artificial neural networks and machine learning models.
+🔭 I’m currently working on data science.<br>👯 I’m looking to collaborate on  artificial intelligence projects.<br>🌱 I’m currently learning artificial neural networks and machine learning models.
 
 
 ## 🌐 Socials:
