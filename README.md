@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I am presently engaged with ZenithAI team and actively contributing to the PandoraAI community. Additionally, I play a pivotal role in Xaria AI, a dedicated education and knowledge platform, focusing on advancing artificial intelligence solutions.<br>👯 I am seeking collaboration opportunities, particularly in the domain of artificial intelligence projects. I am eager to connect with professionals who share similar interests and aspirations for developing impactful projects in the realm of education, knowledge dissemination, and cybersecurity.<br>🌱 Continuing my professional journey, I am dedicated to enhancing my expertise in areas such as artificial intelligence, technology trends, and cybersecurity.<br>💬 Feel free to inquire about artificial intelligence projects, the intersection of technology and education, cybersecurity strategies, or any related inquiries. I am open to discussions and knowledge sharing.
+🔭 I am presently engaged with ZenithAI team and actively contributing to the PandoraAI community. Additionally, I play a pivotal role in Xaria AI, a dedicated education and knowledge platform, focusing on advancing artificial intelligence solutions.<br>
+👯 I am seeking collaboration opportunities, particularly in the domain of artificial intelligence projects. I am eager to connect with professionals who share similar interests and aspirations for developing impactful projects in the realm of education, knowledge dissemination, and cybersecurity.<br>
+🌱 Continuing my professional journey, I am dedicated to enhancing my expertise in areas such as artificial intelligence, technology trends, and cybersecurity.<br>
+💬 Feel free to inquire about artificial intelligence projects, the intersection of technology and education, cybersecurity strategies, or any related inquiries. I am open to discussions and knowledge sharing.
 
 
 ## 🌐 Socials:
